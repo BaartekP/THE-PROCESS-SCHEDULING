@@ -1,0 +1,20 @@
+﻿  cpu.cpp
+  cpuscheduler.cpp
+  deviceq.cpp
+c:\users\bartek\desktop\github\simulation\m1\deviceq.cpp(23): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\bartek\desktop\github\simulation\m1\deviceq.cpp(36): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  generator.cpp
+  index.cpp
+  io.cpp
+  kernels.cpp
+  process.cpp
+  rng.cpp
+  simulation.cpp
+c:\users\bartek\desktop\github\simulation\m1\simulation.cpp(290): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bartek\desktop\github\simulation\m1\simulation.cpp(296): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bartek\desktop\github\simulation\m1\simulation.cpp(302): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bartek\desktop\github\simulation\m1\simulation.cpp(308): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\bartek\desktop\github\simulation\m1\simulation.cpp(323): warning C4477: „printf”: ciąg formatu „%i” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „unsigned __int64”
+  c:\users\bartek\desktop\github\simulation\m1\simulation.cpp(323): note: rozważ użycie elementu „%zi” w ciągu formatu
+  Generowanie kodu...
+  M1.vcxproj -> C:\Users\Bartek\Desktop\GitHub\Simulation\x64\Debug\M1.exe

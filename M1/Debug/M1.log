@@ -1,0 +1,6 @@
+﻿  cpu.cpp
+  cpuscheduler.cpp
+  simulation.cpp
+c:\users\bartek\desktop\gotowy projekt\m1 — kopia — kopia\m1\simulation.cpp(248): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  M1.vcxproj -> C:\Users\Bartek\Desktop\GOTOWY PROJEKT\M1 — kopia — kopia\Debug\M1.exe
